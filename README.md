@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**neusoftzhangjinrui/neusoftzhangjinrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=neusoftzhangjinrui&show_icons=true" alt="logo" align="right" style="margin-bottom:20px"/>
+</p>
+### 我是Jerry-Zhang
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
