@@ -6,7 +6,7 @@
 
 - 🐧 后端开发攻城狮
 - 🏡 作品： <a href="https://github.com/neusoftzhangjinrui" target="_blank">求星星 ✨</a>
-- 🌱 热爱分享
+- 🌱 热爱分享 <a href="https://lnbxzjr.gitee.io" target="_blank">个人博客</a>
 - 😺 趣讲技术：<a href="https://space.bilibili.com/12890453" target="_blank">B站 飓风024/a> | 抖音 soulmate
 - 💬 微信：lnbxzjr
 
