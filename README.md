@@ -1,5 +1,6 @@
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Jerry&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=neusoftzhangjinrui
+&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
 </p>
 
 ### 我是Jerry-Zhang 🐟
@@ -11,4 +12,4 @@
 - 💬 微信：lnbxzjr
 
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Jerry&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=neusoftzhangjinrui&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
